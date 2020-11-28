@@ -1,0 +1,57 @@
+/* @import url('https://use.typekit.net/kdz7gjp.css'); */
+@font-face {
+  font-family: 'lato';
+  src: url('https://use.typekit.net/af/50d55e/000000000000000000015235/27/l?primer=90d4bffd060bb15fb2c0a083b43563d9b9d8d681298f23b8aae7bfe5950b0e83&fvd=n9&v=3')
+      format('woff2'),
+    url('https://use.typekit.net/af/50d55e/000000000000000000015235/27/d?primer=90d4bffd060bb15fb2c0a083b43563d9b9d8d681298f23b8aae7bfe5950b0e83&fvd=n9&v=3')
+      format('woff'),
+    url('https://use.typekit.net/af/50d55e/000000000000000000015235/27/a?primer=90d4bffd060bb15fb2c0a083b43563d9b9d8d681298f23b8aae7bfe5950b0e83&fvd=n9&v=3')
+      format('opentype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'lato';
+  src: url('https://use.typekit.net/af/220823/000000000000000000015231/27/l?primer=90d4bffd060bb15fb2c0a083b43563d9b9d8d681298f23b8aae7bfe5950b0e83&fvd=n7&v=3')
+      format('woff2'),
+    url('https://use.typekit.net/af/220823/000000000000000000015231/27/d?primer=90d4bffd060bb15fb2c0a083b43563d9b9d8d681298f23b8aae7bfe5950b0e83&fvd=n7&v=3')
+      format('woff'),
+    url('https://use.typekit.net/af/220823/000000000000000000015231/27/a?primer=90d4bffd060bb15fb2c0a083b43563d9b9d8d681298f23b8aae7bfe5950b0e83&fvd=n7&v=3')
+      format('opentype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'lato';
+  src: url('https://use.typekit.net/af/180254/00000000000000000001522c/27/l?primer=90d4bffd060bb15fb2c0a083b43563d9b9d8d681298f23b8aae7bfe5950b0e83&fvd=n4&v=3')
+      format('woff2'),
+    url('https://use.typekit.net/af/180254/00000000000000000001522c/27/d?primer=90d4bffd060bb15fb2c0a083b43563d9b9d8d681298f23b8aae7bfe5950b0e83&fvd=n4&v=3')
+      format('woff'),
+    url('https://use.typekit.net/af/180254/00000000000000000001522c/27/a?primer=90d4bffd060bb15fb2c0a083b43563d9b9d8d681298f23b8aae7bfe5950b0e83&fvd=n4&v=3')
+      format('opentype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'lato';
+  src: url('https://use.typekit.net/af/28ba4b/000000000000000000015226/27/l?primer=90d4bffd060bb15fb2c0a083b43563d9b9d8d681298f23b8aae7bfe5950b0e83&fvd=n6&v=3')
+      format('woff2'),
+    url('https://use.typekit.net/af/28ba4b/000000000000000000015226/27/d?primer=90d4bffd060bb15fb2c0a083b43563d9b9d8d681298f23b8aae7bfe5950b0e83&fvd=n6&v=3')
+      format('woff'),
+    url('https://use.typekit.net/af/28ba4b/000000000000000000015226/27/a?primer=90d4bffd060bb15fb2c0a083b43563d9b9d8d681298f23b8aae7bfe5950b0e83&fvd=n6&v=3')
+      format('opentype');
+  font-display: swap;
+  font-style: normal;
+  font-weight: 600;
+}
+
+body {
+  @apply bg-gray-2;
+  font-family: 'lato', sans-serif;
+}
